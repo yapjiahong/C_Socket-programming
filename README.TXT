@@ -23,10 +23,7 @@ how to execute:
 					 ./threadserver
 					 ./threadclient
 	
-						Sever can handle multiple Clients.
-						Client send a msg to Sever, thn Server
-						echo the msg to all Client,
-						which server have handled.
-						Server can handle any situation,
-						client and can connect or disconnect
-						anytime.
+Sever can handle multiple Clients. 
+The client sends a msg to Sever, 
+thn Server echoes the msg to all Client, which server have handled. 
+The server can handle any situation, client and can connect or disconnect anytime.
